@@ -18,6 +18,13 @@ Let the user fix a mistake without restarting the program
 Print a summary table of all the categories 
 Multiple scores in one category
 
+## Tech Stack
+- Language: Java
+- Libraries: java.util.Scanner, java.util.ArrayList, Math, String.format, NumberFormatException (Standard library only and my own Category Class)
+- Data Storage: Held in memory
+- Data source: User input
+- Tools: GitHub
+
 ## Build Plan
 1. Add Main.java to a src/ folder that prints a start message
 2. Create a Category class with a name, weight, current score and getters
