@@ -5,6 +5,14 @@ Problem: (When I'm trying to figure out what I need on a final exam, I have to d
 
 Solution: (I'm going to build a Java command-line program that takes the weighted categories of a class (like homework and exams), along with the user's current scores, and calculates the score they need on the final to reach a target letter grade. It will print that score as a number, so the user knows what they need on the final.)
 
+## MVP Scope
+Calculating the score needed on the final
+Rejecting letters where numbers go 
+Making sure that all the weights add up to 100%
+Enter a target final grade
+Enter the number of categories then each name, weight, and current score 
+Print the score needed on the final
+
 ## Build Plan
 1. Add Main.java to a src/ folder that prints a start message
 2. Create a Category class with a name, weight, current score and getters
