@@ -1,7 +1,11 @@
 # grade-calculator
 
-## Build Plan
+## Project Goal 
+Problem: (When I'm trying to figure out what I need on a final exam, I have to dig through the syllabus to find how much each category weighs and do the math by hand. This takes too long and is easy to get wrong, so I want a program that does it for me with fewer mistakes. It matters to me because I miscalculated this once for a class, and I don't want anyone else to go through that.)
 
+Solution: (I'm going to build a Java command-line program that takes the weighted categories of a class (like homework and exams), along with the user's current scores, and calculates the score they need on the final to reach a target letter grade. It will print that score as a number, so the user knows what they need on the final.)
+
+## Build Plan
 1. Add Main.java to a src/ folder that prints a start message
 2. Create a Category class with a name, weight, current score and getters
 3. Ask for the number of categories and read each one’s name and weight into an ArrayList<Category> with scores for everything but the last one (final)
