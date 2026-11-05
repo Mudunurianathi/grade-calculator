@@ -114,13 +114,16 @@
             <mxPoint x="270" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ncoA-CpZsAMYjD5fH154-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ncoA-CpZsAMYjD5fH154-47" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; text-align: start;&quot;&gt;Input: target letter grade&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="680" as="geometry" />
+        </mxCell>
         <mxCell id="ncoA-CpZsAMYjD5fH154-51" edge="1" parent="1" source="ncoA-CpZsAMYjD5fH154-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="670" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ncoA-CpZsAMYjD5fH154-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
-          <mxGeometry height="30" width="60" x="210" y="620" as="geometry" />
         </mxCell>
         <mxCell id="ncoA-CpZsAMYjD5fH154-55" edge="1" parent="1" source="ncoA-CpZsAMYjD5fH154-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
           <mxGeometry relative="1" as="geometry">
@@ -131,9 +134,6 @@
           <mxGeometry relative="1" x="-0.1501" y="-2" as="geometry">
             <mxPoint x="3" y="18" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ncoA-CpZsAMYjD5fH154-47" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; text-align: start;&quot;&gt;Input: target letter grade&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="150" y="680" as="geometry" />
         </mxCell>
         <mxCell id="ncoA-CpZsAMYjD5fH154-56" edge="1" parent="1" source="ncoA-CpZsAMYjD5fH154-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="ncoA-CpZsAMYjD5fH154-52" value="">
           <mxGeometry relative="1" as="geometry" />
