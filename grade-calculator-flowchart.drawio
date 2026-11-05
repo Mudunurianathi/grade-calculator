@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="upQtZPRbF3KelFDk1UYM">
-    <mxGraphModel dx="1080" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1867" dy="1281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,8 +33,8 @@
             <mxPoint x="330" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ncoA-CpZsAMYjD5fH154-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="More categories to enter?" vertex="1">
-          <mxGeometry height="110" width="120" x="357.5" y="330" as="geometry" />
+        <mxCell id="ncoA-CpZsAMYjD5fH154-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; text-align: start;&quot;&gt;Are all weights and scores numbers?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="130" width="140" x="340" y="320" as="geometry" />
         </mxCell>
         <mxCell id="ncoA-CpZsAMYjD5fH154-23" edge="1" parent="1" source="ncoA-CpZsAMYjD5fH154-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="ncoA-CpZsAMYjD5fH154-22" value="">
           <mxGeometry relative="1" as="geometry">
@@ -45,7 +45,7 @@
             <mxPoint x="330" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ncoA-CpZsAMYjD5fH154-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
+        <mxCell id="ncoA-CpZsAMYjD5fH154-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
           <mxGeometry height="30" width="60" x="297.5" y="340" as="geometry" />
         </mxCell>
         <mxCell id="ncoA-CpZsAMYjD5fH154-33" edge="1" parent="1" source="ncoA-CpZsAMYjD5fH154-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
@@ -53,8 +53,8 @@
             <mxPoint x="370" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ncoA-CpZsAMYjD5fH154-24" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Are all weights and scores numbers?" vertex="1">
-          <mxGeometry height="100" width="112.5" x="402.5" y="460" as="geometry" />
+        <mxCell id="ncoA-CpZsAMYjD5fH154-24" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;span style=&quot;text-align: start; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: medium;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; text-align: start;&quot;&gt;More categories to enter?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="120" x="396.25" y="450" as="geometry" />
         </mxCell>
         <mxCell id="ncoA-CpZsAMYjD5fH154-26" edge="1" parent="1" source="ncoA-CpZsAMYjD5fH154-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="ncoA-CpZsAMYjD5fH154-19" value="">
           <mxGeometry relative="1" x="-0.4667" as="geometry">
@@ -62,7 +62,7 @@
             <mxPoint x="510" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ncoA-CpZsAMYjD5fH154-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+        <mxCell id="ncoA-CpZsAMYjD5fH154-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
           <mxGeometry height="30" width="60" x="486" y="400" as="geometry" />
         </mxCell>
         <mxCell id="ncoA-CpZsAMYjD5fH154-31" edge="1" parent="1" source="ncoA-CpZsAMYjD5fH154-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
@@ -77,16 +77,11 @@
             <mxPoint x="370" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ncoA-CpZsAMYjD5fH154-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
+        <mxCell id="ncoA-CpZsAMYjD5fH154-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
           <mxGeometry height="30" width="60" x="323" y="520" as="geometry" />
         </mxCell>
         <mxCell id="ncoA-CpZsAMYjD5fH154-40" edge="1" parent="1" source="ncoA-CpZsAMYjD5fH154-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="ncoA-CpZsAMYjD5fH154-39" value="">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ncoA-CpZsAMYjD5fH154-42" edge="1" parent="1" source="ncoA-CpZsAMYjD5fH154-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="730" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ncoA-CpZsAMYjD5fH154-35" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Do the weights add up to 100%?" vertex="1">
           <mxGeometry height="110" width="120" x="348" y="590" as="geometry" />
@@ -97,12 +92,17 @@
             <mxPoint x="570" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ncoA-CpZsAMYjD5fH154-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+        <mxCell id="ncoA-CpZsAMYjD5fH154-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
           <mxGeometry height="30" width="60" x="540" y="495" as="geometry" />
         </mxCell>
         <mxCell id="ncoA-CpZsAMYjD5fH154-41" edge="1" parent="1" source="ncoA-CpZsAMYjD5fH154-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="240" as="targetPoint" />
+          <mxGeometry relative="1" x="-0.2554" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="370" />
+              <mxPoint x="630" y="370" />
+              <mxPoint x="630" y="160" />
+            </Array>
+            <mxPoint x="490" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ncoA-CpZsAMYjD5fH154-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
@@ -114,11 +114,57 @@
             <mxPoint x="270" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ncoA-CpZsAMYjD5fH154-51" edge="1" parent="1" source="ncoA-CpZsAMYjD5fH154-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ncoA-CpZsAMYjD5fH154-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
-          <mxGeometry height="30" width="60" x="240" y="650" as="geometry" />
+          <mxGeometry height="30" width="60" x="210" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ncoA-CpZsAMYjD5fH154-55" edge="1" parent="1" source="ncoA-CpZsAMYjD5fH154-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310.0000000000002" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ncoA-CpZsAMYjD5fH154-59" connectable="0" parent="ncoA-CpZsAMYjD5fH154-55" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontSize=13;" value="Target letter" vertex="1">
+          <mxGeometry relative="1" x="-0.1501" y="-2" as="geometry">
+            <mxPoint x="3" y="18" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ncoA-CpZsAMYjD5fH154-47" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium; text-align: start;&quot;&gt;Input: target letter grade&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="220" y="740" as="geometry" />
+          <mxGeometry height="60" width="120" x="150" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="ncoA-CpZsAMYjD5fH154-56" edge="1" parent="1" source="ncoA-CpZsAMYjD5fH154-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="ncoA-CpZsAMYjD5fH154-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ncoA-CpZsAMYjD5fH154-60" connectable="0" parent="ncoA-CpZsAMYjD5fH154-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontSize=13;" value="Target percentage" vertex="1">
+          <mxGeometry relative="1" x="0.1182" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ncoA-CpZsAMYjD5fH154-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Convert letter to percentage" vertex="1">
+          <mxGeometry height="50" width="174" x="240" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="ncoA-CpZsAMYjD5fH154-57" edge="1" parent="1" source="ncoA-CpZsAMYjD5fH154-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="ncoA-CpZsAMYjD5fH154-53" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ncoA-CpZsAMYjD5fH154-61" connectable="0" parent="ncoA-CpZsAMYjD5fH154-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontSize=13;" value="Needed score" vertex="1">
+          <mxGeometry relative="1" x="0.1319" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ncoA-CpZsAMYjD5fH154-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calculate score needed on the final&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="210" x="410" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="ncoA-CpZsAMYjD5fH154-58" edge="1" parent="1" source="ncoA-CpZsAMYjD5fH154-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="ncoA-CpZsAMYjD5fH154-54" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ncoA-CpZsAMYjD5fH154-53" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Output: score needed" vertex="1">
+          <mxGeometry height="60" width="120" x="263" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="ncoA-CpZsAMYjD5fH154-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="End" vertex="1">
+          <mxGeometry height="60" width="110" x="383" y="1090" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
