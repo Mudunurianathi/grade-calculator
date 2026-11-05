@@ -13,6 +13,11 @@ Enter a target final grade
 Enter the number of categories then each name, weight, and current score 
 Print the score needed on the final
 
+## Future Plans 
+Let the user fix a mistake without restarting the program
+Print a summary table of all the categories 
+Multiple scores in one category
+
 ## Build Plan
 1. Add Main.java to a src/ folder that prints a start message
 2. Create a Category class with a name, weight, current score and getters
